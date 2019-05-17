@@ -6,7 +6,5 @@ Backend em Adonis do Desafio Launch
 2. Nome da Database: launch
 
 
-## Desnvolvidmento
-
-Desenvolvido por Antonio Fernandes
+## Desenvolvido por Antonio Fernandes
 
